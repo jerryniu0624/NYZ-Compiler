@@ -1,0 +1,7 @@
+  .text
+  .globl main
+main:
+	 #ret 
+  li	a0, 0
+  ret
+
